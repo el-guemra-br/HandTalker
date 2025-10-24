@@ -3,9 +3,9 @@
 >  **Real-Time Sign Language to Text Converter with Auto-Correction**
 
 ## Project Description
-HandTalker is an intelligent, real-time sign language translation app written in Python. By leveraging computer vision and machine learning, it captures hand and finger movements from a standard webcam, recognizes American Sign Language (ASL) gestures, and instantly translates them into readable text. The system features advanced auto-correction to correct small recognition errors, improving communication efficiency and usability for the speech-impaired and the wider community. HandTalker is built for accessibility, scalability, and ease of use.​
+> HandTalker is an intelligent, real-time sign language translation app written in Python. By leveraging computer vision and machine learning, it captures hand and finger movements from a standard webcam, recognizes American Sign Language (ASL) gestures, and instantly translates them into readable text. The system features advanced auto-correction to correct small recognition errors, improving communication efficiency and usability for the speech-impaired and the wider community. HandTalker is built for accessibility, scalability, and ease of use.​
 
-## Features
+##  Features
 - Real-time detection of hand and finger gestures using MediaPipe and OpenCV.
 
 - Recognizes and translates signs into English text output.
@@ -25,7 +25,7 @@ HandTalker is an intelligent, real-time sign language translation app written in
 
       pip install -r requirements.txt
   
-> (Requirements: opencv-python, mediapipe, numpy, scikit-learn, difflib )
+   > (Requirements: opencv-python, mediapipe, numpy, scikit-learn, difflib )
 
 
 - 3 Download or train the hand gestures model:
